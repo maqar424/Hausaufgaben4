@@ -8,7 +8,7 @@ public class H3_main {
 
         // Initialisierung mit beliebigen Werten
         celsiusFloat = 14.2f;
-        fahrenheitFloat = 77.9f;
+        fahrenheitFloat = 77.8f;
 
         celsiusDouble = 14.2;
         fahrenheitDouble = 77.9;
