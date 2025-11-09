@@ -11,7 +11,7 @@ public class H3_main {
         fahrenheitFloat = 77.8f;
 
         celsiusDouble = 14.2;
-        fahrenheitDouble = 77.9;
+        fahrenheitDouble = 69.0;
         
         
         //Programm:
